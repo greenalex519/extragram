@@ -1,3 +1,8 @@
+# deployed to heroku: https://git.heroku.com/ga519-extragram.git
+#heroku datastore: postgresql-clean-97502
+# heroku db url: HEROKU_POSTGRESQL_JADE_URL
+
+
 # Extragram Project
 
 ## Setup
@@ -31,7 +36,7 @@ https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-o
 * Rails out-of-the-box authentication
 * current_user
 * Authorisation via Pundit
-* Homework: BP's Authentication & Authorisation activities 
+* Homework: BP's Authentication & Authorisation activities
 
 ### AJAX
 * Remote forms
